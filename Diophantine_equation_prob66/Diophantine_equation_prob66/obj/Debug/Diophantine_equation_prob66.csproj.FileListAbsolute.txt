@@ -1,0 +1,6 @@
+C:\Users\Damian\Desktop\Diophantine_equation_prob66\Diophantine_equation_prob66\bin\Debug\Diophantine_equation_prob66.exe.config
+C:\Users\Damian\Desktop\Diophantine_equation_prob66\Diophantine_equation_prob66\bin\Debug\Diophantine_equation_prob66.exe
+C:\Users\Damian\Desktop\Diophantine_equation_prob66\Diophantine_equation_prob66\bin\Debug\Diophantine_equation_prob66.pdb
+C:\Users\Damian\Desktop\Diophantine_equation_prob66\Diophantine_equation_prob66\obj\Debug\Diophantine_equation_prob66.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Diophantine_equation_prob66\Diophantine_equation_prob66\obj\Debug\Diophantine_equation_prob66.exe
+C:\Users\Damian\Desktop\Diophantine_equation_prob66\Diophantine_equation_prob66\obj\Debug\Diophantine_equation_prob66.pdb
