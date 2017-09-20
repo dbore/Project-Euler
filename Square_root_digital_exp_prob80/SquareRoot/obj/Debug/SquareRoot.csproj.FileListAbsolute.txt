@@ -1,0 +1,12 @@
+C:\Users\Damian\Desktop\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Damian\Desktop\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Damian\Desktop\SquareRoot\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Damian\Desktop\SquareRoot\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Damian\Desktop\SquareRoot\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\Damian\Desktop\SquareRoot\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\GitHub\Project-Euler\Square_root_digital_exp_prob80\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Damian\Documents\GitHub\Project-Euler\Square_root_digital_exp_prob80\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Damian\Documents\GitHub\Project-Euler\Square_root_digital_exp_prob80\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\Damian\Documents\GitHub\Project-Euler\Square_root_digital_exp_prob80\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Damian\Documents\GitHub\Project-Euler\Square_root_digital_exp_prob80\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Damian\Documents\GitHub\Project-Euler\Square_root_digital_exp_prob80\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
