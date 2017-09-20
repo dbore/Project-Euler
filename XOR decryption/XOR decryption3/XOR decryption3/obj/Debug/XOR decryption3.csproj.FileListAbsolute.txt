@@ -1,0 +1,6 @@
+C:\Users\Damian\Desktop\XOR decryption3\XOR decryption3\bin\Debug\XOR decryption3.exe.config
+C:\Users\Damian\Desktop\XOR decryption3\XOR decryption3\bin\Debug\XOR decryption3.exe
+C:\Users\Damian\Desktop\XOR decryption3\XOR decryption3\bin\Debug\XOR decryption3.pdb
+C:\Users\Damian\Desktop\XOR decryption3\XOR decryption3\obj\Debug\XOR decryption3.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\XOR decryption3\XOR decryption3\obj\Debug\XOR decryption3.exe
+C:\Users\Damian\Desktop\XOR decryption3\XOR decryption3\obj\Debug\XOR decryption3.pdb

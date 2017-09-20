@@ -1,0 +1,6 @@
+C:\Users\Damian\Desktop\XOR decryption2\XOR decryption2\bin\Debug\XOR decryption2.exe.config
+C:\Users\Damian\Desktop\XOR decryption2\XOR decryption2\obj\Debug\XOR decryption2.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\XOR decryption2\XOR decryption2\bin\Debug\XOR decryption2.exe
+C:\Users\Damian\Desktop\XOR decryption2\XOR decryption2\bin\Debug\XOR decryption2.pdb
+C:\Users\Damian\Desktop\XOR decryption2\XOR decryption2\obj\Debug\XOR decryption2.exe
+C:\Users\Damian\Desktop\XOR decryption2\XOR decryption2\obj\Debug\XOR decryption2.pdb
