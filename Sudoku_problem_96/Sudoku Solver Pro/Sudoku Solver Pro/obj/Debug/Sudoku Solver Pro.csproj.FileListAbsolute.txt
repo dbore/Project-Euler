@@ -1,0 +1,18 @@
+C:\Users\Damian\Desktop\Sudoku Solver Pro\Sudoku Solver Pro\bin\Debug\Sudoku Solver Pro.exe.config
+C:\Users\Damian\Desktop\Sudoku Solver Pro\Sudoku Solver Pro\bin\Debug\Sudoku Solver Pro.exe
+C:\Users\Damian\Desktop\Sudoku Solver Pro\Sudoku Solver Pro\bin\Debug\Sudoku Solver Pro.pdb
+C:\Users\Damian\Desktop\Sudoku Solver Pro\Sudoku Solver Pro\obj\Debug\Sudoku Solver Pro.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Sudoku Solver Pro\Sudoku Solver Pro\obj\Debug\Sudoku Solver Pro.exe
+C:\Users\Damian\Desktop\Sudoku Solver Pro\Sudoku Solver Pro\obj\Debug\Sudoku Solver Pro.pdb
+C:\Users\Damian\Desktop\sudoku problem 96\Sudoku Solver Pro\Sudoku Solver Pro\bin\Debug\Sudoku Solver Pro.exe.config
+C:\Users\Damian\Desktop\sudoku problem 96\Sudoku Solver Pro\Sudoku Solver Pro\obj\Debug\Sudoku Solver Pro.exe
+C:\Users\Damian\Desktop\sudoku problem 96\Sudoku Solver Pro\Sudoku Solver Pro\obj\Debug\Sudoku Solver Pro.pdb
+C:\Users\Damian\Desktop\sudoku problem 96\Sudoku Solver Pro\Sudoku Solver Pro\bin\Debug\Sudoku Solver Pro.exe
+C:\Users\Damian\Desktop\sudoku problem 96\Sudoku Solver Pro\Sudoku Solver Pro\bin\Debug\Sudoku Solver Pro.pdb
+C:\Users\Damian\Desktop\sudoku problem 96\Sudoku Solver Pro\Sudoku Solver Pro\obj\Debug\Sudoku Solver Pro.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\GitHub\Project-Euler\Sudoku_problem_96\Sudoku Solver Pro\Sudoku Solver Pro\bin\Debug\Sudoku Solver Pro.exe.config
+C:\Users\Damian\Documents\GitHub\Project-Euler\Sudoku_problem_96\Sudoku Solver Pro\Sudoku Solver Pro\obj\Debug\Sudoku Solver Pro.exe
+C:\Users\Damian\Documents\GitHub\Project-Euler\Sudoku_problem_96\Sudoku Solver Pro\Sudoku Solver Pro\obj\Debug\Sudoku Solver Pro.pdb
+C:\Users\Damian\Documents\GitHub\Project-Euler\Sudoku_problem_96\Sudoku Solver Pro\Sudoku Solver Pro\bin\Debug\Sudoku Solver Pro.exe
+C:\Users\Damian\Documents\GitHub\Project-Euler\Sudoku_problem_96\Sudoku Solver Pro\Sudoku Solver Pro\bin\Debug\Sudoku Solver Pro.pdb
+C:\Users\Damian\Documents\GitHub\Project-Euler\Sudoku_problem_96\Sudoku Solver Pro\Sudoku Solver Pro\obj\Debug\Sudoku Solver Pro.csprojResolveAssemblyReference.cache
